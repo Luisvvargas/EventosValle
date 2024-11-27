@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC189E38-C87C-4674-A01B-12D9D4CA7071}|EventosValle\\EventosValle.csproj|c:\\users\\tokad\\downloads\\eventosvalle (1)\\eventosvalle\\eventosvalle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC189E38-C87C-4674-A01B-12D9D4CA7071}|EventosValle\\EventosValle.csproj|solutionrelative:eventosvalle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC189E38-C87C-4674-A01B-12D9D4CA7071}|EventosValle\\EventosValle.csproj|c:\\users\\tokad\\downloads\\eventosvalle (1)\\eventosvalle\\eventosvalle\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC189E38-C87C-4674-A01B-12D9D4CA7071}|EventosValle\\EventosValle.csproj|solutionrelative:eventosvalle\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC189E38-C87C-4674-A01B-12D9D4CA7071}|EventosValle\\EventosValle.csproj|c:\\users\\tokad\\downloads\\eventosvalle (1)\\eventosvalle\\eventosvalle\\chainofresponsability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC189E38-C87C-4674-A01B-12D9D4CA7071}|EventosValle\\EventosValle.csproj|solutionrelative:eventosvalle\\chainofresponsability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC189E38-C87C-4674-A01B-12D9D4CA7071}|EventosValle\\EventosValle.csproj|c:\\users\\tokad\\downloads\\eventosvalle (1)\\eventosvalle\\eventosvalle\\commandpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC189E38-C87C-4674-A01B-12D9D4CA7071}|EventosValle\\EventosValle.csproj|solutionrelative:eventosvalle\\commandpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\EventosValle\\Visitor.cs",
+              "RelativeDocumentMoniker": "EventosValle\\Visitor.cs",
+              "ToolTip": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\EventosValle\\Visitor.cs",
+              "RelativeToolTip": "EventosValle\\Visitor.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T20:19:05.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\EventosValle\\Program.cs",
+              "RelativeDocumentMoniker": "EventosValle\\Program.cs",
+              "ToolTip": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\EventosValle\\Program.cs",
+              "RelativeToolTip": "EventosValle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:19:44.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandPattern.cs",
+              "DocumentMoniker": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\EventosValle\\CommandPattern.cs",
+              "RelativeDocumentMoniker": "EventosValle\\CommandPattern.cs",
+              "ToolTip": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\EventosValle\\CommandPattern.cs",
+              "RelativeToolTip": "EventosValle\\CommandPattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:19:28.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChainofResponsability.cs",
+              "DocumentMoniker": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\EventosValle\\ChainofResponsability.cs",
+              "RelativeDocumentMoniker": "EventosValle\\ChainofResponsability.cs",
+              "ToolTip": "C:\\Users\\tokad\\Downloads\\EventosValle (1)\\EventosValle\\EventosValle\\ChainofResponsability.cs",
+              "RelativeToolTip": "EventosValle\\ChainofResponsability.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T19:19:17.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

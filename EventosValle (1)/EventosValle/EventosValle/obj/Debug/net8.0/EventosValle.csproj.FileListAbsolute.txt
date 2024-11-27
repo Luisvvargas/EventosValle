@@ -1,0 +1,28 @@
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/bin/Debug/net8.0/EventosValle
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/bin/Debug/net8.0/EventosValle.deps.json
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/bin/Debug/net8.0/EventosValle.runtimeconfig.json
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/bin/Debug/net8.0/EventosValle.dll
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/bin/Debug/net8.0/EventosValle.pdb
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/EventosValle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/EventosValle.AssemblyInfoInputs.cache
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/EventosValle.AssemblyInfo.cs
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/EventosValle.csproj.CoreCompileInputs.cache
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/EventosValle.dll
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/refint/EventosValle.dll
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/EventosValle.pdb
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/EventosValle.genruntimeconfig.cache
+/Users/mariobarrera/RiderProjects/EventosValle/EventosValle/obj/Debug/net8.0/ref/EventosValle.dll
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\EventosValle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\EventosValle.AssemblyInfoInputs.cache
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\EventosValle.AssemblyInfo.cs
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\EventosValle.csproj.CoreCompileInputs.cache
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\EventosValle.dll
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\refint\EventosValle.dll
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\EventosValle.pdb
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\bin\Debug\net8.0\EventosValle.exe
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\bin\Debug\net8.0\EventosValle.deps.json
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\bin\Debug\net8.0\EventosValle.runtimeconfig.json
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\bin\Debug\net8.0\EventosValle.dll
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\bin\Debug\net8.0\EventosValle.pdb
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\EventosValle.genruntimeconfig.cache
+C:\Users\tokad\Downloads\EventosValle (1)\EventosValle\EventosValle\obj\Debug\net8.0\ref\EventosValle.dll
